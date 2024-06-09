@@ -1,0 +1,83 @@
+@import url(assets/fonts/outfit);
+@import url(assets/fonts/young-serif);
+
+body {
+    width: 1440px;
+    background-color: hsl(30, 18%, 87%);
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.preparation {
+    background-color: hsl(30, 18%, 87%);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.instructions {
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+
+p {
+
+    font-family:  sans-serif;
+    font-family: serif;
+}
+
+h1 {
+    font-family: "Young Serif", sans-serif;
+    font-style: bold;
+}
+
+li {
+    padding: 5px;
+}
+
+h2 {
+    color:  hsl(14, 45%, 36%);
+}
+
+h3 {
+    padding-left: 14px;
+    font-family: 'Outfit', sans-serif;
+    font-style: bold;
+    color: hsl(332, 51%, 32%);
+}
+
+.measurements {
+    color: hsl(14, 45%, 36%);
+    padding-left: 150px;
+}
+
+b {
+    color: hsl(30, 10%, 34%);
+}
+
+.instrc {
+    padding-left: 10px;
+}
+
+td {
+    padding: 0 50px 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.row {
+    border-bottom: 1px solid grey;
+}
+
