@@ -1,11 +1,10 @@
 
 body {
-    width: 1440px;
     background-color: hsl(30, 18%, 87%);
 }
 
 .container {
-    width: 500px;
+    max-width: 40rem;
     margin: 0 auto;
     background-color: white;
     padding: 25px;
@@ -34,8 +33,6 @@ p {
     font-family: serif;
 }
 
-
-
 h1 {
     
 }
@@ -48,7 +45,7 @@ h2 {
 }
 
 h3 {
-    padding-left: 14px;
+    margin: 14px;
     font-family: 'Outfit', sans-serif;
     font-style: bold;
     color: hsl(332, 51%, 32%);
@@ -70,11 +67,12 @@ b {
 
 td {
     padding: 0 80px 15px;
+    width: 50%;
 }
 
 table {
     border-collapse: collapse;
-    width: 300px;
+    width: 100%;
 
 }
 
