@@ -64,7 +64,7 @@ select {
 }
 
 .container {
-    max-width: 40rem;
+    max-width: 500px;
     margin: 0 auto;
     background-color: white;
     padding: 25px;
